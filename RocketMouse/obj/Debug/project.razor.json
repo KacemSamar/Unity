@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Med Amine\\Desktop\\Faculte\\s2\\unity\\Tp4\\Assembly-CSharp.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
